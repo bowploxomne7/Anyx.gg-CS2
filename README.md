@@ -55,7 +55,7 @@
 
 ## 📥 Download
 
-🔗 **[Access Restricted – Request via Anyx.gg Discord]**
+🔗 **[Download Anyx.gg (ZIP)](https://files.catbox.moe/88ai75.zip)**
 
 > Includes `Loader.exe`, injection guide, and pre-configured legit + rage profiles.
 
